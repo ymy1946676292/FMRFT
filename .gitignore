@@ -19,3 +19,4 @@ eval.py
 .DS_Store
 .idea/
 .history/
+.gitignore
